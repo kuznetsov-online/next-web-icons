@@ -1087,6 +1087,11 @@ babel-loader@8.0.2:
     mkdirp "^0.5.1"
     util.promisify "^1.0.0"
 
+babel-plugin-react-native-web@^0.9.6:
+  version "0.9.6"
+  resolved "https://registry.yarnpkg.com/babel-plugin-react-native-web/-/babel-plugin-react-native-web-0.9.6.tgz#21ca8c097d4d475f5b8cd435fa461d1342fcb103"
+  integrity sha512-toyQWuiwwpVFDtlUtpKuf01Qjxk/f3kUi6TvT8kJ9HT59xjchUflhFYrBvQeESS6Mi+psHRWUxhDjX01m2IeUQ==
+
 babel-plugin-react-require@3.0.0:
   version "3.0.0"
   resolved "https://registry.yarnpkg.com/babel-plugin-react-require/-/babel-plugin-react-require-3.0.0.tgz#2e4e7b4496b93a654a1c80042276de4e4eeb20e3"

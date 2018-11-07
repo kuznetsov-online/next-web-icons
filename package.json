@@ -4,6 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
+    "babel-plugin-react-native-web": "^0.9.6",
     "next": "^7.0.2",
     "react": "^16.6.1",
     "react-art": "^16.6.1",
